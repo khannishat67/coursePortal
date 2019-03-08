@@ -1,0 +1,35 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "com.stcet.courseportal"
+        },
+        "jhipsterVersion": "5.8.1",
+        "applicationType": "monolith",
+        "baseName": "coursePortal",
+        "packageName": "com.stcet.courseportal",
+        "packageFolder": "com/stcet/courseportal",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "ehcache",
+        "enableHibernateCache": false,
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "h2Disk",
+        "prodDatabaseType": "mysql",
+        "searchEngine": false,
+        "messageBroker": false,
+        "serviceDiscoveryType": false,
+        "buildTool": "gradle",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "M2JkNmZhOWZhNTBkMWU0NGNiZDY0ZTFkZTMzNzFkMDg0NTFlOGYwMzBlMTQzMzI1M2YxMTdhMGI3NTI4ZDU2OGVkZTQwODkxYTE2MzVkY2ZiNmRmZDgzN2Q1MjBlOThjMjI4YTVmNWZhNTNmN2Q3OTg0NjZhODc3NDMzNWU0MTM=",
+        "clientFramework": "angularX",
+        "useSass": true,
+        "clientPackageManager": "npm",
+        "testFrameworks": ["protractor"],
+        "jhiPrefix": "jhi",
+        "entitySuffix": "",
+        "dtoSuffix": "DTO",
+        "otherModules": [],
+        "enableTranslation": false
+    }
+}
